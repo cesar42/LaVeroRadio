@@ -24,7 +24,7 @@
             "type": "image/png"
         }
 	],
-	"start_url": "./?mode=pwa",
+	"start_url": "index",
 	"theme_color": "#d55599",
 	"background_color": "#d55599",
 	"orientation": "portrait",
